@@ -1,4 +1,4 @@
-import GlobalStyled from "./styles-components/globalStyle";
+import GlobalStyled from "./styles-components/GlobalStyle";
 import styled from "styled-components";
 import Accordion from "./components/AccordionCard";
 import Imgmob from "../src/images/mobile.svg";
